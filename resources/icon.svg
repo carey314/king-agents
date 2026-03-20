@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="16" fill="#3E2723"/>
+  <rect x="8" y="8" width="112" height="112" rx="12" fill="#5D4037"/>
+  <!-- Office floor -->
+  <rect x="16" y="40" width="96" height="72" rx="4" fill="#8D6E63"/>
+  <!-- Desk -->
+  <rect x="28" y="56" width="32" height="16" rx="2" fill="#A1887F"/>
+  <rect x="68" y="56" width="32" height="16" rx="2" fill="#A1887F"/>
+  <!-- Monitors -->
+  <rect x="34" y="46" width="12" height="10" rx="1" fill="#263238"/>
+  <rect x="36" y="48" width="8" height="6" fill="#4CAF50"/>
+  <rect x="78" y="46" width="12" height="10" rx="1" fill="#263238"/>
+  <rect x="80" y="48" width="8" height="6" fill="#42A5F5"/>
+  <!-- Characters -->
+  <circle cx="40" cy="82" r="6" fill="#6B7DB3"/>
+  <circle cx="40" cy="76" r="4" fill="#FFCC80"/>
+  <circle cx="84" cy="82" r="6" fill="#7986CB"/>
+  <circle cx="84" cy="76" r="4" fill="#FFCC80"/>
+  <circle cx="62" cy="98" r="6" fill="#81C784"/>
+  <circle cx="62" cy="92" r="4" fill="#FFCC80"/>
+  <!-- Title bar -->
+  <rect x="16" y="14" width="96" height="20" rx="4" fill="#4E342E"/>
+  <text x="64" y="28" text-anchor="middle" fill="#FFD54F" font-family="monospace" font-size="10" font-weight="bold">KING AGENTS</text>
+  <!-- Plant -->
+  <circle cx="104" cy="96" r="5" fill="#4CAF50"/>
+  <rect x="102" y="98" width="4" height="6" fill="#795548"/>
+</svg>
